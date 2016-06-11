@@ -17,5 +17,6 @@ Uses a Google Spreadsheet as input for generating form. The added features inclu
 Contains a modified version of [SolrStrap](https://github.com/fergiemcdowall/solrstrap). The features include:
 * Instant search
 * Infinite scrolling
+* Facets for filtering results
 * Map displaying geographical facets
 * Text snippets displaying the direction change of the variables
